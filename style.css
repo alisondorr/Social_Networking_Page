@@ -1,0 +1,85 @@
+
+* { Box-sizing: border-box;
+}
+body {
+    background-color: rgb(165, 161, 161);
+}
+.blue_header {
+    width: 850px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: rgb(28, 28, 110);
+}
+p1 { 
+    font-size: x-large;
+    color: wheat;
+    position: relative;
+        left: 440px;
+        top: -80px;
+}
+p2 {
+    font-size: larger;
+    color: wheat;
+    position: relative;
+        left: 250px;
+        top: -50px;
+}
+.navbar{
+    width: 850px;
+    height: 60px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    position: relative;
+        top: -26px;
+}
+ul {list-style-type: none;}
+li {float: left; 
+    padding-left: 50px;
+    border-left: black;
+    position: relative;
+        top: -250px;
+        left: 320px;
+}
+.downdrop {
+    width: 2px;
+    height: 2px
+    position: relative;
+        top: -450px;
+        left: 750px;
+}
+.left_column {
+    width: 328px;
+    height: 275px;
+    background-color: rgb(90, 36, 36); 
+    position: relative;
+        top: -106px; 
+        left: 1px;
+}
+.right_column {
+    width: 512px;
+    height: 275px;
+    background-color: rgb(58, 36, 36);
+    position: relative;
+        top: -381px;
+        left: 337px;
+}
+.photo{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(51, 31, 100);
+    position: relative;
+        top: -120px;
+        left: 15px;
+}
+.Like_button {
+    box-sizing: content-box;
+        width: 8%;
+        height: 32%;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 1.75%;
+    position: absolute; 
+        top: -40px;
+        left: 750px;
+}
