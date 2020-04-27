@@ -150,3 +150,20 @@ li {float: left;
         top: -468px;
         left: 580px;
 }
+.Left_box {
+    width: 125px;
+    height: 25px;
+    background-color: cornsilk;
+    position: relative;
+    top: -500px;
+    left: 400px;
+
+}
+.Right_box {
+    width: 175px;
+    height: 25px;
+    background-color: cornsilk;
+    position: relative;
+    top: -500px;
+    left: 750px
+}
